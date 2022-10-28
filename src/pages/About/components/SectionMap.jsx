@@ -9,8 +9,8 @@ export const SectionMap = () => {
               </div>
               <h6 className="text-xl font-semibold">Tiempo</h6>
               <p className="mt-2 mb-4 text-blueGray-500">
-                Reprehenderit commodo mollit irure cupidatat. Consectetur
-                voluptate proident dolore non ipsum Lorem mollit adipisicing.
+                Nos encuentras ubicados en la esquina de la UPTC en la
+                Calle 3sur 14 - 15 Sogamoso, Boyacá
               </p>
             </div>
           </div>
