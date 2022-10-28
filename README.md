@@ -6,9 +6,9 @@ This is a page about a cyber cafe that offers services for video players where y
 
 ## Getting started
 
-Node -version
+Node version
 ```
-18.7.0
+V18.7.0
 ```
 
 Install dependecies
